@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +179,8 @@
   },
   "active": "bf1e61a8719ed1d1",
   "lastOpenFiles": [
+    "projects",
+    "Learning",
     "Untitled.canvas",
     "README.md",
     "learning/Database.md",

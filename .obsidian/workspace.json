@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-30.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-30"
+              "title": "README"
             }
           }
         ]
@@ -177,11 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf1e61a8719ed1d1",
+  "active": "f487cbe0480452c3",
   "lastOpenFiles": [
+    "2025-04-30.md",
     "README.md",
     "Untitled.canvas",
-    "2025-04-30.md",
     "Learning/Computer",
     "Untitled 1",
     "Untitled",
